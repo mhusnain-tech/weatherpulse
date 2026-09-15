@@ -245,4 +245,12 @@ Make sure you activated the virtual environment and ran `pip install -r requirem
 
 ## License
 
-MIT License — see `LICENSE` for details.
+MIT License — see `LICENSE` for details.   
+
+
+## 💬 Contact
+
+👤 **Project Lead:** Muhammad Hussnain  
+📧 **Email:** mhussnainiftikhar2003@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/mhusnain-ai  
+📍 **Location:** Multan, Pakistan
