@@ -226,8 +226,8 @@ Make sure you activated the virtual environment and ran `pip install -r requirem
 
 ## Screenshots
 
-> ![alt text](image.png)  
-> ![alt text](image-1.png)  
+> ![alt text](assets/image.png)  
+> ![alt text](assets/image-1.png)  
 
 ---
 
